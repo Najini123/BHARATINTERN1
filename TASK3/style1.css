@@ -1,0 +1,44 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: 'Roboto Mono',sans-serif;
+    font-size: 30px;
+}
+body{
+    background-image: url('https://media.istockphoto.com/id/537240506/photo/thermometer-on-the-summer-heat.jpg?s=612x612&w=0&k=20&c=Axfdi33tZPIZnzyaDt56JR8f6gfua7JkoncdMOQdUpE=');
+    background-repeat: no-repeat;
+    background-size: 1500px 750px;
+    padding-top:100px
+}
+h6{
+    padding-left:295px;
+    font-weight: bold;
+}
+.root{
+    margin-left:250px;
+    background-color: white;
+    padding-top:30px;
+    padding-left: 80px;
+    padding-bottom: 60px;
+    border-radius: 25px;
+    width:30%;
+}
+.container{
+    display: inline-block;
+    
+}
+input{
+    text-align: center;
+    margin:5px;
+    border-radius: 5px;
+    font-style: italic;
+}
+
+
+
+    
+    
+    
+
+    
+    
